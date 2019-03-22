@@ -10,3 +10,27 @@ And so ya... I embarked on this project in anger and have since come from it wit
 
 Special note: All data that was collected in my initial testing and public trial has been deleted from all systems, servers and personal devices.
 
+# VDC Setup Instructions
+
+1) Download these files or use git via ssh to clone the archive to your web host.
+  If you download the files to your own system, extract the archive and upload to your webhost directory.
+  Ensure your host allows for PHP execution as well.
+  
+2) Once on the host change the filename for Wow.php to index.php.
+
+3) create a text file called users.txt
+
+4) chmod the users.txt file to 222.
+
+5) chmod the index & function php files to 755.
+
+6) Update the index file html to reflect what you want it to look like for the end-user.
+
+7) I assume you have a Domain name and URL, at which point toss the link for the page out in the while and wait for folks to visit to view the data.
+
+
+# Warning
+
+The data that is collected can be powerful information to have. IP addresses and geolocation is one thing. It is when you use that data in tools like the Android app ITraceroute and other ip tracing tools that have a graphical interface that narrows the endusers IP to their general Neighbourhoods.
+
+# DO NOT use the information gathered for illegal purposes! That includes for doxing.
