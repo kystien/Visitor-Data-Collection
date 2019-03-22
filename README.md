@@ -26,7 +26,7 @@ Special note: All data that was collected in my initial testing and public trial
 
 6) Update the index file html to reflect what you want it to look like for the end-user.
 
-7) I assume you have a Domain name and URL, at which point toss the link for the page out in the while and wait for folks to visit to view the data.
+7) I assume you have a Domain name and URL, at which point toss the link for the page out in the wild and wait for folks to visit to and then view the data that is generated.
 
 
 # Warning
