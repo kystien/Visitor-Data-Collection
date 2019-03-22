@@ -8,7 +8,13 @@ So I got pissed off with one anon handle on twitter and then another and another
 
 And so ya... I embarked on this project in anger and have since come from it with a new sense of respect for the many companies that collect this data daily. Additionally it has given me respect for the authorities that try and collect this data in the course of their investigations.
 
+I did want to expand on this by inputting the data into a sql database, then using other API's to cross reference the data collected with other sites and links used.
+
+If law enforcement wants they can use this script. It wouldnt be that hard to have a free domain setup and to toss this into a extremist website, facebook page or group and see who clicks on it, additionally they can send a link with a customized visual to a targetted user and then cross reference the data collected between tables & databases.
+
 Special note: All data that was collected in my initial testing and public trial has been deleted from all systems, servers and personal devices.
+
+If you use these scripts, please use them responsibly.
 
 # VDC Setup Instructions
 
