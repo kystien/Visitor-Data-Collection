@@ -31,6 +31,6 @@ Special note: All data that was collected in my initial testing and public trial
 
 # Warning
 
-The data that is collected can be powerful information to have. IP addresses and geolocation is one thing. It is when you use that data in tools like the Android app ITraceroute and other ip tracing tools that have a graphical interface that narrows the endusers IP to their general Neighbourhoods.
+The data that is collected can be powerful information to have. IP addresses and geolocation is one thing. It is when you use that data in tools like the Android app iTraceroute and other ip tracing tools that have a graphical interface that narrows the endusers IP to their general neighbourhoods.
 
 # DO NOT use the information gathered for illegal purposes! That includes for doxing.
